@@ -1,0 +1,37 @@
+body {
+  font-family: Arial;
+}
+
+/* navbar */
+.navbar {
+  background: #999;
+  border-radius: 0;
+}
+
+.navbar-brand {
+  font-size: 28px;
+  font-weight: bold;
+  color: black !important;
+}
+
+/* mobile dropdown */
+.navbar-nav {
+  background: #f2f2f2;
+  margin: 0;
+}
+
+.navbar-nav li {
+  border-bottom: 1px solid black;
+}
+
+/* heading */
+h1 {
+  margin-bottom: 30px;
+}
+
+/* menu box */
+.menu-box {
+  background: #999;
+  padding: 20px;
+  height: 1000px;
+}
